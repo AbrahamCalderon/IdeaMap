@@ -1,0 +1,96 @@
+{"name": "Projects",
+"children":[
+{
+"name": "MobileApp", "description":"",
+"children": [
+{"name":"MusicPlayer",
+"children":[
+{"name": "FitnessSync",
+"description":"Many people like to exercise with music, setting their pace to the beats-per-minute of each song. Although there are numerous exercise CDs and mp3s available for purchase, users might prefer to design a walking or running plan built around their own music library. There are numerous apps that help users map out a fitness walk/run, provide music for the walk/run, calculate the calories burned in each walk/run, or determine the distance of a walk/run, but none of those apps help users to select music from their own library to play during their walk/run. The objective of this project is to develop an iPhone app that determines the beats-per-minute of every song in the iPhone or iPod, and assigns to each song a specific category.",
+"children":[
+{"name":"Andrew", "email":"acalderon1@luc.edu"},{"name":"Daneih", "email":"daneih.ismail@gmail.com"},{"name":"Carol", "email":"cklann999@gmail.com"},{"name":"Indu", "email":"ipandey@luc.edu"}]
+},
+{"name": "FollowMyLead",
+"description":"Follow My Lead will be an Android application for joggers. The idea is to alleviate the burden of switching between songs while in motion, at the same time providing a dynamic and unique experience. Imagine that you would like to hop on the treadmill for a while. In order to prevent having to switch songs while you run, youll need to create a playlist in advance. By the time youre finished, you may have lost the motivation to run. On the other hand, if you do just hop on, while youre jogging youll have to switch between songs that keep you moving. This can even be dangerous on a treadmill. Follow My Lead will scan the joggers Android phone for songs. Then, if the songs BPM can be determined, it is loaded into a list of possible songs to play. Each song is classified by a BPM range, which will be labeled anything from warm up to sprint. The jogger can begin by selecting a song. Once they do, Follow My Lead will begin tracking their movement speed and translate that to BPM. The jogger will have a certain amount of time to get up or down to speed. If they are out of range, the application will begin to queue up a new song within their run speed. If they remain out of the range for too long, Follow My Lead will fade out the track and skip to the next track, which will now match the joggers speed.",
+"children":[
+{"name":"Eric", "email":"ericjosephburns@gmail.com"},{"name":"Cooper", "email":"cynon777@gmail.com"}]
+}
+]
+},
+{"name":"Game",
+"children":[
+{"name": "Nades",
+"description":"I will make an interactive location based android game. The game will consist of a radar which will display friends who are close within the game and the user will be able to press a button on the phone and detonate a grenade causing the other person to have to look at a red screen or ad when they open their app. I will also try to implement a land mine. When a player plants one and a friend walks close it will detonate causing the same thing to happen. There will also hopefully be a point system and upgrades.",
+"children":[
+{"name":"Alex", "email":"alexthornburg1@gmail.com"}]
+}
+]
+}
+]
+},
+{
+"name": "DataVizualization", "description":"",
+"children": [
+{"name":"D3",
+"children":[
+{"name": "SMart",
+"description":"Our goal is to utilize data visualizations to convey an important and impactful message regarding crime in the city of Chicago. On any given night, Chicago news outlets report on several criminal offenses in our city. Often times, these reports fall on deaf ears as they have become commonplace. However, we believe that the method for delivering statistics on crime in Chicago impacts the effect on the audience. For example, the current crime statistics available from the City of Chicago Data Portal allow typical visualizations such as bar,line,and pie charts. These types of data representations can oftentimes be too dry, and may lead to passive listening, disinterest or inaction. To avoid this, the SMart project will create artwork from data which engages the viewer, thereby increasing the likelihood the message is received and impactful.",
+"children":[
+{"name":"Ron", "email":"rgiambalvo@luc.edu"},{"name":"Abraham", "email":"abec03@gmail.com"},{"name":"Mike", "email":"michaelkalimuthu@gmail.com"},{"name":"Monica", "email":"monicasharma1053@gmail.com"}]
+},
+{"name": "mom",
+"description":"mom art",
+"children":[
+{"name":"rebecca", "email":"rc@gmail.com"}]
+}
+]
+}
+]
+},
+{
+"name": "Education/Literature", "description":"",
+"children": [
+{"name":"StoryMap",
+"children":[
+{"name": "MappyingBakersvilleMystery",
+"description":"Mapping the Baskerville Mystery is a web application designed to help readers better understand Sir Arthur Conan Doyles The Hound of the Baskervilles. Intended users are those interested in reading and studying the work, whether or not they are wholly at ease with using computers for textual study. The goal is to allow readers to interact with the text in a variety of ways. In addition to highlighting and annotating the text, users will be able to show events from the novel against a timeline, use interactive maps to better understand the novels geographical setting, and show the frequency with which particular words or phrases appear in the text.",
+"children":[
+{"name":"Amy", "email":"acavender@gmail.com"},{"name":"Helen", "email":"hrdavies5@gmail.com"},{"name":"Hannah", "email":"hannahgillow@gmail.com"},{"name":"Caitlin", "email":"pollock.caitlin@gmail.com"},{"name":"Adam", "email":"merthedil@gmail.com"}]
+}
+]
+},
+{"name":"EmotionalImpact",
+"children":[
+{"name": "Emoterface",
+"description":"Understanding the importance of emotions for human cognition, learning, decision-making, and motivation, we propose to develop a web-based tool that will to test the ways that menu/interfaces elicit emotional responses. We will be developing a game with different types of interfaces and then studying them to see if the elicit different emotions.",
+"children":[
+{"name":"Erik", "email":"erikalanhanson@gmail.com"},{"name":"Richard", "email":"rvetter@luc.edu"},{"name":"Leigh", "email":"lseifert@luc.edu"}]
+}
+]
+}
+]
+},
+{
+"name": "PhysicalInteraction", "description":"",
+"children": [
+{"name":"TrackMovement",
+"children":[
+{"name": "GazeGallery",
+"description":"Users will be presented with a typical personal computer with an addition HD  camera and an infrared light source positioned facing their eyes. When a users moves  their eyes across the screen, where they look will correlate to the position of the mouse on  the screen. Mouse clicking will be addressed by interpreting prolonged gazing as a left  mouse click. For our purposes, no right mouse button is required and as such will be  neglected.  The ability to manipulate the mouse and mouse buttons will then be used navigate a  gallery of images. Initially this will simply be a simple right and left slideshow style  navigation. The final goal is to create a twodimensional  gallery that allows for gaze  tracking to easily navigate between pictures in a nonlinear  manner The final task is  allowing users to easily close the application via a large exit button that is easier for the  sensitivity of the gaze tracker to interpret then the standard windows exit button.",
+"children":[
+{"name":"Daniel", "email":"Dvshivers2@gmail.com"},{"name":"Zachary", "email":"zachary.f.bruno@gmail.com"},{"name":"Matthew", "email":"Kemnetz.m@gmail.com"},{"name":"Gabriel", "email":"gburgess@luc.edu"},{"name":"Kieran", "email":"kierank918@gmail.com"}]
+}
+]
+},
+{"name":"MusicApplication",
+"children":[
+{"name": "SoundEasel",
+"description":"The goal of this project is to develop a software synthesizer that can utilize the touch-screen found on tablet PCs and integrate with existing music software (i.e. Cubase, Live, etc.). The end result will be combining the power of desktop digital audio workstation software with interesting touch-screen interfaces such as the Lemur.",
+"children":[
+{"name":"Griffin", "email":"me@griffinmoe.com"}]
+}
+]
+}
+]
+}
+]}
